@@ -1,0 +1,1 @@
+Multithreading allows concurrent execution
